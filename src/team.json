@@ -1,0 +1,31 @@
+{
+  "name": "Smiley",
+  "spots": 10,
+  "members": [
+    {
+      "name": "Farid",
+      "email": "farid@example.com",
+      "status": "Active"
+    },
+    {
+      "name": "Amelia",
+      "email": "amelia@example.com",
+      "status": "Active"
+    },
+    {
+      "name": "Keanu",
+      "email": "keanu@example.com",
+      "status": "Active"
+    },
+    {
+      "name": "Anna",
+      "email": "anna@example.com",
+      "status": "Active"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@example.com",
+      "status": "Active"
+    }
+  ]
+}
